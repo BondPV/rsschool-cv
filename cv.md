@@ -6,7 +6,7 @@
 *   **E-mail:** [bondpv@yandex.ru](bondpv@yandex.ru)
 *   **Telegram:** [@BondPV](https://t.me/BondPV)
 *   **GitHub:** [BondPV](https://github.com/BondPV)
-*   **Discord:** 
+*   **Discord:** BondPV
 
 ## **About me**
 
