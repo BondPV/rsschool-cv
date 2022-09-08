@@ -46,7 +46,7 @@ const sumPositiveNumbers = (a, b) => {
 
 ## **Experience**
 
-
+... in the process
 
 ## **Languages**
 
